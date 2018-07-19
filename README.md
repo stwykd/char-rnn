@@ -11,4 +11,4 @@ Since exclusively pitches are used for prediction, the initial song is stripped 
 
 In addition, the implementation uses LSTM-cells, which allowed the network to learn long-term musical structures, such as song forms, and produce melodic repetitions.
 
-Please check out the `compositions/` folder to hear the RNN's compositions.
+Please check out the `compositions/` folder to listen to this model's compositions.
